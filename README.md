@@ -1,5 +1,5 @@
 # Technology-Store-Automation
-Entity Framework Nesne İlişkisel Eşleme (O/RM) aracı ile MSSQL Server Bağlantısı Kurularak Geliştirilen Bir Teknoloji Mağazası Otomasyonu Projesi
+Entity Framework Nesne İlişkisel Eşleme (O/RM) Aracı ile MSSQL Server Bağlantısı Kurularak C# Programlama Diliyle Geliştirilen Bir Teknoloji Mağazası Otomasyonu Projesi
 
 1. SQL Server >> "ETrade" Veritabanı "Products" Tablosu => Design
 
